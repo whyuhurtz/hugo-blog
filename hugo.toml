@@ -1,5 +1,5 @@
 baseURL = 'https://whyuhurtz.me/'
-title = "ywdh's Blog"
+title = "whyuhurtz's Blog"
 theme = 'LoveIt'
 copyright = '&copy; 2023-2025'
 
@@ -42,10 +42,10 @@ enableEmoji = true
 [params]
   defaultTheme = "auto"
   dateFormat = "2006-01-02"
-  title = "ywdh's Blog"
+  title = "whyuhurtz's Blog"
 
   [params.author]
-    name = "ywdh"
+    name = "whyuhurtz"
     email = "wahyupriambodo.sec@gmail.com"
     link = "https://github.com/whyuhurtz"
   
@@ -54,7 +54,7 @@ enableEmoji = true
     mobileMode = "auto"
 
     [params.header.title]
-      name = "ywdh's Blog"
+      name = "whyuhurtz's Blog"
       typeit = false
   
   [params.footer]
@@ -70,13 +70,12 @@ enableEmoji = true
     rss = 10
   
   [params.app]
-    title = "ywdh's Blog"
+    title = "whyuhurtz's Blog"
     noFavicon = false
   
   [params.list]
     paginate = 20
     dateFormat = "01-02"
-    rss = 10
   
   [params.search]
     enable = true
@@ -97,7 +96,7 @@ enableEmoji = true
     [params.home.profile]
       enable = true
       avatarURL = "/images/avatar.jpg"
-      title = "ywdh{h3ll0_w0rld_4nd_h4v3_4_n1c3_d4y}"
+      title = "whyuhurtz{h3ll0_w0rld_4nd_h4v3_4_n1c3_d4y}"
       subtitle = "Just an ordinary cybersec guy."
       social = true
       typeit = true

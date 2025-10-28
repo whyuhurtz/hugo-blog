@@ -1,6 +1,6 @@
 +++
 date = '2025-10-15'
-author = 'Zumatech'
+author = 'whyuhurtz'
 draft = false
 title = '(PDF) KMIPN VII CTF Finals Writeup'
 description = "I don't participate this time, because my team lose at quals."
