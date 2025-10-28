@@ -86,9 +86,9 @@ enableEmoji = true
     highlightTag = "em"
     absoluteURL = false
     [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
+      index = "whyuhurtz_me_45t4qzqypw_pages"
+      appID = "45T4QZQYPW"
+      searchKey = "e181db5a82cb99d24dfa035720d0dd52"
   
   [params.home]
     rss = 10
