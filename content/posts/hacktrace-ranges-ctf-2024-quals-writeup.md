@@ -120,7 +120,7 @@ python3 CVE-2024-27198-RCE.py -t <http://10.1.2.233:8111>
 ## User Flag
 
 {{< admonition type=question title="Click to show the flag" open=false >}}
-  **24ee7336f91a82fcab6bd8b1fd981d2a**
+  `24ee7336f91a82fcab6bd8b1fd981d2a`
 {{< /admonition >}}
 
 ---
@@ -223,7 +223,7 @@ hydra -L users.txt -P /usr/share/wordlists/rockyou.txt 10.1.2.234 ssh -t 4
 ## User Flag
 
 {{< admonition type=question title="Click to show the flag" open=false >}}
-  **9f752edba37a6dbe680219e472ad2b85**
+  `9f752edba37a6dbe680219e472ad2b85`
 {{< /admonition >}}
 
 ---
@@ -480,5 +480,5 @@ nc -lnvp 4444
 ## User Flag
 
 {{< admonition type=question title="Click to show the flag" open=false >}}
-  **ab40b8d326bcddb72f674759d6c09ccc**
+  `ab40b8d326bcddb72f674759d6c09ccc`
 {{< /admonition >}}

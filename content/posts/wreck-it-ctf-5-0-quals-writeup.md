@@ -26,7 +26,7 @@ tags = ["ctf", "national", "crypto", "web exploit"]
 ### Flag
 
 {{< admonition type=question title="Click to show the flag" open=false >}}
-  **WRECKIT50{just_ch3cking_f0r_y0ur_sani7y}**
+  `WRECKIT50{just_ch3cking_f0r_y0ur_sani7y}`
 {{< /admonition >}}
 
 ---
@@ -174,7 +174,7 @@ curl -X POST -d "oshi_name=freya\"; cat /flag.txt; echo #" --cookie "session=eyJ
 ### Flag
 
 {{< admonition type=question title="Click to show the flag" open=false >}}
-  **WRECKIT50{oshikucumansatukok_satujkt}**
+  `WRECKIT50{oshikucumansatukok_satujkt}`
 {{< /admonition >}}
 
 ---
@@ -383,5 +383,5 @@ while True:
 ### Flag
 
 {{< admonition type=question title="Click to show the flag" open=false >}}
-  **WRECKIT50{fUnCt10n_Sh0uLd_nOt_13Ij3cT1On}**
+  `WRECKIT50{fUnCt10n_Sh0uLd_nOt_13Ij3cT1On}`
 {{< /admonition >}}
