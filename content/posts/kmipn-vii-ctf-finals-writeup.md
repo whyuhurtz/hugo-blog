@@ -4,7 +4,7 @@ author = 'whyuhurtz'
 draft = false
 title = '(PDF) KMIPN VII CTF Finals Writeup'
 description = "I don't participate this time, because my team lose at quals."
-tags = ["ctf", "kmipn", "national"]
+tags = ["ctf", "kmipn", "national", "pwn", "rev", "misc", "web exploit", "crypto"]
 +++
 
 {{< param description >}}

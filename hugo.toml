@@ -78,17 +78,17 @@ enableEmoji = true
     dateFormat = "01-02"
   
   [params.search]
-    enable = true
-    type = "algolia"
-    contentLength = 4000
-    placeholder = "Search posts..."
-    maxResultLength = 10
-    highlightTag = "em"
-    absoluteURL = false
-    [params.search.algolia]
-      index = "whyuhurtz_me_45t4qzqypw_pages"
-      appID = "45T4QZQYPW"
-      searchKey = "e181db5a82cb99d24dfa035720d0dd52"
+    enable = false
+    # type = "algolia"
+    # contentLength = 4000
+    # placeholder = "Search posts..."
+    # maxResultLength = 10
+    # highlightTag = "em"
+    # absoluteURL = false
+    # [params.search.algolia]
+      # index = "whyuhurtz_me_45t4qzqypw_pages"
+      # appID = "45T4QZQYPW"
+      # searchKey = "e181db5a82cb99d24dfa035720d0dd52"
   
   [params.home]
     rss = 10
@@ -103,7 +103,7 @@ enableEmoji = true
     
     [params.home.posts]
       enable = true
-      paginate = 5
+      paginate = 10
   
   [params.social]
     GitHub = "whyuhurtz"
