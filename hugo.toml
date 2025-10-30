@@ -82,6 +82,11 @@ enableEmoji = true
     paginate = 20
     dateFormat = "01-02"
   
+  [params.analytics]
+    [params.analytics.google]
+      id = "G-LHYL3DDVEV"
+      respectDoNotTrack = false
+  
   [params.search]
     enable = false
     # type = "algolia"
