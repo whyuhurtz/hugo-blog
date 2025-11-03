@@ -10,6 +10,7 @@ description = 'See all of my awesome project’s.'
 
 ## 2025
 
+- DHT Logger ([repo link](https://github.com/whyuhurtz/DHT_Logger))
 - LokaSync ([repo link](https://github.com/LokaSync/LokaSync))
 - Redesign Polines Web to Mobile App using Flutter ([repo link](https://github.com/whyuhurtz/polines_app))
 
