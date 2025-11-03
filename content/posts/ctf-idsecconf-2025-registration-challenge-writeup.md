@@ -3,7 +3,7 @@ date = '2025-11-01T08:11:54+07:00'
 author = 'whyuhurtz'
 draft = false
 title = 'CTF IDSECCONF 2025 Registration Challenge Writeup'
-description = 'My team got rank 10th at the registration challenge and qualified to the finals.'
+description = 'My team got rank 7th at the registration challenge and qualified to the finals.'
 tags = ['ctf', 'national', 'web exploit', 'misc']
 +++
 
