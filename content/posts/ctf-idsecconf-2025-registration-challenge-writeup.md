@@ -49,9 +49,9 @@ body {
   text-align: center;
 }
 p {
-    font-size: 1.5em;
-    color: #333;
-    margin: 0;
+  font-size: 1.5em;
+  color: #333;
+  margin: 0;
 }
 </style><p>Kamu di localhost bro, bukan itu!</p><p>AS45732</p
 ```
@@ -285,5 +285,5 @@ if __name__ == "__main__":
 ### Flag
 
 {{< admonition type=question title="Click to show the flag" open=false >}}
-  **flag{_w3lc0me_t0_kota_daeng_pur_}**
+  `flag{_w3lc0me_t0_kota_daeng_pur_}`
 {{< /admonition >}}

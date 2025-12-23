@@ -1,5 +1,5 @@
 +++
-date = '2025-08-22'
+date = '2024-08-22'
 author = 'whyuhurtz'
 draft = false
 title = 'WRECK-IT CTF 5.0 Quals Writeup'
